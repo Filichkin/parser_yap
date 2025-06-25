@@ -146,4 +146,5 @@ dmypy.json
 .mypy_cache
 http_cache.*
 logs/
+results/
 
